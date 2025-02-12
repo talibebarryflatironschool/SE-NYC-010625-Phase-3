@@ -56,8 +56,8 @@ Write your solution code in `lib/app.py` (the `app.py` file which is in the `lib
 | Python                                                                                               | Javascript                                                                                   |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | None                      | undefined/null    |
-| &&                        | and               |
-| \|\|                      | or                |
+| and                        | &&               |
+| or                      | \|\|                |
 | True/False                | true/false           |
 | ipdb.set_trace()          | debugger          |
 | snake_case                | camelCase         |
