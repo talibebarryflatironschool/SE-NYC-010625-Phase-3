@@ -25,7 +25,7 @@ Welcome to Python! In today's lecture, we will discuss the Python Fundamentals i
 
 2. Now that your `pipenv` virtual environment is ready to use, enter `pipenv shell` to enter the virtual environment.
 
-3. Run `pytest` from inside of the `SE-NYC-TEMPLATE-Phase-3` directory to run the tests (if you can see `lib`, `Pipfile`, `Pipfile.lock`, `pytest.ini`, and `README.md` in your current working directory, then you are in the correct directory), and begin working to pass the tests. You can also run `pytest -x` to run one test at a time.
+3. Run `pytest` from inside of the `SE-NYC-010625-Phase-3` directory to run the tests (if you can see `lib`, `Pipfile`, `Pipfile.lock`, `pytest.ini`, and `README.md` in your current working directory, then you are in the correct directory), and begin working to pass the tests. You can also run `pytest -x` to run one test at a time.
 
 ## Deliverables
 
