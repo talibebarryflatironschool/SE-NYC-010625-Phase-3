@@ -1,4 +1,9 @@
 .DS_Store
-.pytest_cache
+
+# Virtual env metadata
 .venv
+
+# pytest cache
+.pytest_cache
+__pycache__
 Pipfile.lock
