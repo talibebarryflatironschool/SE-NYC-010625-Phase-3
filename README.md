@@ -10,7 +10,7 @@
 |----|------------------------------	|:-----:	|--------	|---------	|
 |1 | Python Fundamentals                         |[01_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/01_starter)|N/A|[01_solution](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/01_solution)|
 |2 | Python Data Structures                      |[02_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/02_starter)|[02_example_code](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/02_example_code)||
-|3 | Object Oriented Programming in Python       |[03_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/03_starter)|||
+|3 | Object Oriented Programming in Python       |[03_starter](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/03_starter)|[03_example_code](https://github.com/RikkuX491/SE-NYC-010625-Phase-3/tree/03_example_code)||
 |4 | OOP Part 2: Class Methods & Class Variables ||||
 |5 | Object Relationships                        ||||
 |6 | SQL Fundamentals & Table Relations          ||||
