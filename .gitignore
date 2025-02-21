@@ -6,3 +6,6 @@
 # pytest cache
 .pytest_cache
 __pycache__
+
+# Pipfile.lock
+Pipfile.lock
